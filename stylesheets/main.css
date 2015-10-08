@@ -1,0 +1,116 @@
+.nav {
+  margin-top: 25px;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url("http://i.imgur.com/HpKbv5C.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  max-width: 80%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 48px;
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: white;
+}
+
+.jumbotron a {
+  color: #CCFFFF;
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+  margin-bottom: 50px;
+}
+
+.learn-more h3 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.current-passions {
+    background-color: #C2D1B2;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.current-passions h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.current-passions p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.fourofour{
+  background-image:url("http://i.imgur.com/kzEpfWi.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center top;
+  height: 600px;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-align: center;
+}
+
+.fourofour p {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+.fourofour a {
+  font-size: 20px;
+  color: #CCFFFF;
+  text-align: center;
+}
+
+.fourofour a:link {
+color: #CCFFFF;
+text-align: center;
+}
+.fourofour a:visited {
+color: #00FFFF;
+text-align: center;
+}
+.fourofour a:hover {
+color: #66FFFF;
+text-align: center;
+}
